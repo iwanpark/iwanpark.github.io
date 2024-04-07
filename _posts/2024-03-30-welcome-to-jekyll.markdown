@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Journey of My First Android App Challenge"
-date: 2024-04-07 13:30:00 +0900
+date: 2024-02-07 13:30:00 +0900
 categories: jekyll update
 ---
 When I was a junior developer.
