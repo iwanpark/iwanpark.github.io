@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I Walk"
+title: "The Simpler, The Better"
 date: 2024-04-07 13:30:00 +0900
 categories: jekyll update
 ---
