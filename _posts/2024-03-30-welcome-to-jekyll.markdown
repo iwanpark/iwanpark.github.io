@@ -1,29 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-03-30 23:13:12 +0900
+title: "The Journey of My First Android App Challenge"
+date: 2024-04-07 13:30:00 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+When I was a junior developer.
 
-Jekyll requires blog post files to be named according to the following format:
+I started my career at a large-scale Indonesian company. I was working at an IT department. One day, I was called by the top management. They told me that they had an idea, and they asked me if I could implement an Android application. I had zero experience and knowledge in it, but I said yes because I thought it would be fun.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I asked my friend what server framework was good. He recommended Flask, a lightweight server framework in Python. He also recommended SQLAlchemy, an ORM which was a good fit with Flask. All of the aforementioned technologies were new to me, but I decided to learn them from scratch.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+While learning them, I had to design the UX of the app. I chose Balsamiq, a wireframing tool as a quick solution. Once I made a wireframe, I listed all possible SQL queries for each screen. This led me to devise DB tables.
 
-Jekyll also offers powerful support for code snippets:
+I also had to provision infrastructure. At that time I knew what AWS was, but I had never used it. So, I looked through some major services and chose ElasticBeanstalk and RDS. ElasticBeanstalk took some time for me to configure it to production level, but it was helpful in terms of making deployment easy.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In the meantime, I had to learn how to implement an Android app. I knew Java, but implementing an Android application was a different thing. A lot of debugging processes went on, meaning that my coding was slow and error-prone. I personally didn't enjoy it much and that was when I realized that I preferred backend to frontend.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+I also had to perform QA tasks by myself. I got around 10 Android devices from the company. I made a QA sheet and went through it whenever there was a major change. I was like a machine when doing it.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Finally, I managed to launch the app in 3 months. It was a huge success for me although my code was messy and error-prone. If I remember my code back then, I feel embarrassed. That was especially because I didn't have a senior engineer who could guide me.
+
+All my code written back then is not in use anymore because the company was shut down. There is no way to get my code back, but I still remember how I felt when I struggled day and night. It was tough but wonderful days.
+
+I've become a better engineer than before, but the attitude I acquired at that time, which is 'if someone else can do it, so can I', is something that I need to remind myself of.
