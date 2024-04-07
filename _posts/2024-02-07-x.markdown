@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Journey of My First Android App Challenge"
+title: "My First App"
 date: 2024-02-07 13:30:00 +0900
 categories: jekyll update
 ---
