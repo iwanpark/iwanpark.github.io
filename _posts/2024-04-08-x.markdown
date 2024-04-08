@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can I survive AI?"
-date: 2024-04-08 00:00:00 +0900
+date: 2024-04-08 12:00:00 +0900
 categories: jekyll update
 ---
 After a fulfilling decade in software engineering, split between Indonesia and Korea, I've grown significantly in my field. My approach combines hard work with creative problem-solving, which has served me well. However, the rise of AI, particularly since the advent of ChatGPT, has led me to rethink the future of software engineering. My reliance on ChatGPT for coding assistance and advice, replacing traditional resources like Google or Stack Overflow, underscores the transformative impact of AI.
